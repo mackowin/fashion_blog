@@ -1,5 +1,5 @@
 # :dress: Build a Fashion Blog Website #
-CodeCademy Project: build a simple website to practice HTML and CSS
+CodeCademy Project: Build a simple website to practice HTML and CSS
 
 ## Table of Contents ##
 * [General Info](#General-Info)
